@@ -33,6 +33,14 @@ A WebAssembly-powered, retro-terminal styled expense tracker with cloud synchron
 
 The Personal Finance Management System is a lightweight, high-performance financial tracking application. Originally written in C, it is compiled to WebAssembly (Wasm) to run entirely within the browser. It features a custom ANSI-compliant terminal emulator wrapped in a sleek, retro-inspired graphical interface. The application offers a robust set of tools to manage expenses, track budgets, and gain AI-driven insights natively without needing a traditional backend server.
 
+## Screenshots
+
+### Main Dashboard
+![Main Dashboard](screenshots/image1.png)
+
+### Expense Management
+![Expense Management](screenshots/image2.png)
+
 ## Technologies Used
 
 *   **C (C11):** Core logic, utilizing standard library I/O adapted for Emscripten's virtual file systems.
